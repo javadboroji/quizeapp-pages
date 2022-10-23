@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/quizeapp-pages/static/css/main.7555b9e2.css",
+    "main.js": "/quizeapp-pages/static/js/main.21d2faf7.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/quizeapp-pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/quizeapp-pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/quizeapp-pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/undraw_interaction_design_odgc.png": "/quizeapp-pages/static/media/undraw_interaction_design_odgc.363626be37025951a178.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/quizeapp-pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/quizeapp-pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/undraw_Dashboard_re_3b76.png": "/quizeapp-pages/static/media/undraw_Dashboard_re_3b76.0d66519a59a553bdf685.png",
+    "index.html": "/quizeapp-pages/index.html",
+    "main.7555b9e2.css.map": "/quizeapp-pages/static/css/main.7555b9e2.css.map",
+    "main.21d2faf7.js.map": "/quizeapp-pages/static/js/main.21d2faf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7555b9e2.css",
+    "static/js/main.21d2faf7.js"
+  ]
+}
